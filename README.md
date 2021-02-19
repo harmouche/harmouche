@@ -1,4 +1,7 @@
 ### Hi there. I'm Hamza Harmouche 👋
+<br />
+A passionate Full Stack Web Developer
+<br />
 
 <!--
 **harmouche/harmouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
