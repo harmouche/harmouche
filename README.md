@@ -1,6 +1,6 @@
 ### Hi there. I'm Hamza Harmouche 👋
-<br />
 A passionate Full Stack Web Developer
+<br />
 <br />
 
 <!--
