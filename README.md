@@ -5,23 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...  [Forensic Help](https://github.com/harmouche/forensichelp)
+- 🌱 I’m currently learning ... DevOps Tools
+- 👯 I’m looking to collaborate on ... Open Source Projects
+- ⚡ Fun fact: ... computers are dum!
 -->
-
-<h1 align="center">Hi 👋, I'm Hamza Harmouche</h1>
-<h3 align="center">A passionate fullstack developer</h3>
-
-- 🔭 I’m currently working on [Forensic Help](https://github.com/harmouche/forensichelp)
-
-- 🌱 I’m currently learning **DevOps Tools**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hamzaharmouche" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hamzaharmouche" height="30" width="40" /></a>
